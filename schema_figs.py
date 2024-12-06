@@ -16,7 +16,7 @@ from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
 import matplotlib.ticker as mtick
 #import pandas as pd
 #import math
-from mut_functions import (fitness, apply_styles)
+from schema_functions import (fitness, apply_styles)
 from math import (comb, log10, sqrt)
 import numpy as np
 from scipy.optimize import curve_fit

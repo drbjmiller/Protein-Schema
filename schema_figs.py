@@ -5,6 +5,8 @@
 Generate Additional Figures for Protein Rarity Schema
 
 Written by Brian Miller
+
+Note: The radial graphs do not print properly with the latest version of Python. I will attempt to update the code later this year. 
 ===============
 """
 

@@ -29,7 +29,7 @@ import scipy.integrate
 PROTEIN = "Beta"
 
 if PROTEIN == "Beta":
-    ALPHA = .104
+    ALPHA = .095
     BETA = .019
     PLEN = 263
     TARGET = 150
@@ -40,8 +40,8 @@ if PROTEIN == "Beta":
     SEQMAX = 120
     ZOOM_MAX = 120
 elif PROTEIN == "HisA":
-    ALPHA = .165
-    BETA = .065
+    ALPHA = .0
+    BETA = .09
     PLEN = 245
     TARGET = 140
     YAX_DIST = .20   
@@ -51,8 +51,8 @@ elif PROTEIN == "HisA":
     SEQMAX = 80
     ZOOM_MAX = 60
 elif PROTEIN == "GFP":
-    ALPHA = -.062
-    BETA = .058
+    ALPHA = -.05
+    BETA = .055
     PLEN = 238
     TARGET = 136
     YAX_DIST = .30   
